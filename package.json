@@ -1,0 +1,26 @@
+{
+"name": "rerecustomprogressbar",
+"version": "1.0.0",
+"description": "This JavaScript code generates a customizable progress bar that can be integrated into an HTML page. The progress bar's color can be easily customized directly within the JavaScript code. The entire functionality is encapsulated within a single index.js file.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/rere-xp/CustomProgressBar.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "rere-xp",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
